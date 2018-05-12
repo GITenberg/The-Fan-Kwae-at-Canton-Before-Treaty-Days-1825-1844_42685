@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41816'
     url: http://www.gutenberg.org/2009/agents/41816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42685#The-Fan-Kwae-at-Canton-Before-Treaty-Days-1825-1844
 gutenberg_issued: '2013-05-10'
 gutenberg_type: Text
 identifiers:
