@@ -1,0 +1,28 @@
+_repo: The-Fan-Kwae-at-Canton-Before-Treaty-Days-1825-1844_42685
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42685-h/images/backcover.jpg
+creator:
+  author:
+    agent_name: Hunter, William C.
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '41816'
+    url: http://www.gutenberg.org/2009/agents/41816
+description: ''
+gutenberg_issued: '2013-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42685'
+  lccn: '23015754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guangzhou (China) -- Commerce'
+- !lcsh 'Guangzhou (China) -- Description and travel'
+- !lcc 'DS'
+title: The 'Fan Kwae' at Canton Before Treaty Days 1825-1844
+url: http://www.gutenberg.org/ebooks/42685
